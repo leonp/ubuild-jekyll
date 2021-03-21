@@ -7,10 +7,10 @@ page_sections:
   block: header-1
   logo: ''
   navigation:
-  - link: "/about"
-    link_text: About
   - link: "/"
     link_text: Home
+  - link: "/about"
+    link_text: About
 - template: 2-column-media-element
   block: media-2
   image_1:

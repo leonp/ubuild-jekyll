@@ -6,7 +6,9 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: ''
-  navigation: []
+  navigation:
+  - link: "/"
+    link_text: Home
 - template: 2-column-media-element
   block: media-2
   image_1:

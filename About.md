@@ -1,13 +1,10 @@
 ---
 block: header-1
 logo: ''
-navigation:
-- link: "/"
-  link_text: Home
+navigation: []
 menu:
   main:
     weight: 2
     title: About
-published: false
 
 ---

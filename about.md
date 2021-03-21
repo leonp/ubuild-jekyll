@@ -25,6 +25,5 @@ page_sections:
     image: "/uploads/2021/03/21/img_20190831_104910458.jpg"
     alt_text: A very broken drain.
   slug: ''
-published: false
 
 ---
